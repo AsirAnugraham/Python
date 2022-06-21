@@ -1,0 +1,1 @@
+watching videos related to mysql connection with python
